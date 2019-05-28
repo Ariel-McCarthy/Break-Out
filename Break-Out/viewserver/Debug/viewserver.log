@@ -1,0 +1,15 @@
+﻿  winproject.cpp
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(188): warning C4005: 'TIMER1': macro redefinition
+  c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(68): note: see previous definition of 'TIMER1'
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(243): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(237): warning C4101: 'hwin': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(284): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(312): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(413): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(423): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(431): warning C4101: 'si': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(430): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\break-out\break-out\viewserver\winproject.cpp(430): warning C4101: 'wmId': unreferenced local variable
+  viewserver.vcxproj -> C:\Users\sovre\Desktop\CST 325 (graphics)\homework\Homework 1\Break-Out\Break-Out\Debug\winproject.exe

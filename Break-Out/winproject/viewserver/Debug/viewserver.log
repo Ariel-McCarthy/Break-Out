@@ -1,0 +1,15 @@
+﻿  winproject.cpp
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(198): warning C4005: 'TIMER1': macro redefinition
+  c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(68): note: see previous definition of 'TIMER1'
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(253): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(247): warning C4101: 'hwin': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(323): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(428): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(438): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(447): warning C4101: 'si': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(446): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\sovre\desktop\cst 325 (graphics)\homework\homework 1\arkanoid_start_2-1\winproject\viewserver\winproject.cpp(446): warning C4101: 'wmId': unreferenced local variable
+  viewserver.vcxproj -> C:\Users\sovre\Desktop\CST 325 (graphics)\homework\Homework 1\arkanoid_start_2-1\winproject\Debug\winproject.exe
